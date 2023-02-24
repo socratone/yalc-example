@@ -1,6 +1,7 @@
 # Yalc Example
 
-yalc를 사용하는 방법에 대해서 다룹니다.
+yalc를 사용하는 방법에 대해서 다룹니다.\
+yalc를 이용하면 npm package를 배포하지 않고도 수정한 버전을 배포된 것처럼 package.json에 연결하여 테스트할 수 있습니다.
 
 ## 설치 방법
 
