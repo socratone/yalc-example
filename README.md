@@ -30,6 +30,7 @@ yalc를 사용하는 방법에 대해서 다룹니다.
 
 - `/.yalc/lodash`에 lodash 파일들이 복사된다.
 - package.json의 lodash가 다음과 같이 바뀐다. `"lodash": "file:.yalc/lodash",`
+- `yalc.lock` 파일이 생성된다.
 
 ### 6. `yarn install`을 입력해서 dependency를 업데이트 한다.
 
